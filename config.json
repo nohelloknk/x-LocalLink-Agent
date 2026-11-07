@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "roblox": {
+      "command": "X.pyw",
+      "args": [
+        "--studio-mcp"
+      ]
+    },
+    "cmd": {
+      "command": "X.pyw",
+      "args": [
+        "--cmd-mcp"
+      ],
+      "env": {}
+    },
+    "files": {
+      "command": "X.pyw",
+      "args": [
+        "--files-mcp"
+      ],
+      "env": {}
+    }
+  }
+}
